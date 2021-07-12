@@ -42,6 +42,7 @@ public class MyJava {
         c1.setColor("黑色");
         c1.setTypeName("拯救者");
 
+
         System.out.println("c2 = " + c2);
 
         //判断c1 c2是否相等
